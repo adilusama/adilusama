@@ -3,7 +3,7 @@
 Computer Scientist by training :computer:, aspiring Data Analyst :chart_with_upwards_trend:
 <br /> Working experience in Operations sector of 2 years in FinTech and Telecom industry :office:
 <br /> Passionate about football :soccer:, and love to travel :school_satchel:
-<br /> Resume and all the certificates/acheivements attached :arrow_heading_down: 
+<br /> Resume and all the certificates/acheivements attached in /adilusama :arrow_heading_down: 
 <!--
 **adilusama/adilusama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
