@@ -1,4 +1,7 @@
-### Hi there 👋
+### Aspiring Data Analyst | Python | SQL | MSc Computer Science at TU Clausthal
+
+Computer Scientist by training, learning to be an effective Data Analyst. Worked in operations sector for around 2 years in FinTech and Telecom industry. 
+Passionate about football, and love to travel. 
 
 <!--
 **adilusama/adilusama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
