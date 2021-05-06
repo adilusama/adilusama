@@ -1,6 +1,7 @@
 ### Aspiring Data Analyst | Python | SQL | MSc Computer Science at TU Clausthal
 
-Computer Scientist by training, learning to be an effective Data Analyst. Worked in operations sector for around 2 years in FinTech and Telecom industry. 
+Computer Scientist by training, learning to be an effective Data Analyst. 
+Worked in operations sector for around 2 years in FinTech and Telecom industry. 
 Passionate about football, and love to travel. 
 
 <!--
